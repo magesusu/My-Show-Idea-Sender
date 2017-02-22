@@ -1,11 +1,29 @@
-# My-Show-Idea-Sender
+# My Show Idea Sender
 Create a site for easily sending music requests by dragging and dropping to radio stations. Made for Sound Street Radio.
 
 
 Sample(our radio station's page): https://studio.ssr990.com/ 
 
-Explanation:  https://ssr990.com/2017/02/22/how-to-process-the-requests/
+Explanation(Japanese only):  https://ssr990.com/2017/02/22/how-to-process-the-requests/
 
+#Features
+
+* Find your music by using iTunes API.
+* Easy-to-use drag-and-drop interface.
+* Upload your original songs.
+
+
+#Settings
+
+##After you download our software, initial settings is required.
+
+###index.html (Around line 15 and 208)
+Paste your Google Analytics tracking code.
+Paste your site key of google recaptcha.
+###getshow.php (Line 3 to 15)
+Edit Mail Settings.
+###uploadmusic.php (Line 8)
+Paste your secret key of google recaptcha.
 
 #Reference Sites
 
