@@ -26,6 +26,8 @@ Copyright (c) 2014 Tristan Edwards https://github.com/t4t5/sweetalert
 
 Copyright (c) 2013 Amit Gharat a.k.a codef0rmer https://github.com/codef0rmer/angular-dragdrop
 
+Copyright (C) 2012-2015 Thomas ZILLIOX. https://github.com/tzi/chewing-grid.css
+
 
 
 SIL OFL 1.1, MIT
